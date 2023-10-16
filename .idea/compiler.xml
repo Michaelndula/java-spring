@@ -10,6 +10,7 @@
         <module name="PropertiesReading" />
         <module name="DependencyInjection" />
         <module name="DependencyInjectionWithComponentScan" />
+        <module name="Profiles" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
