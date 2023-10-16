@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/DependencyInjection/pom.xml" />
         <option value="$PROJECT_DIR$/DependencyInjectionWithComponentScan/pom.xml" />
         <option value="$PROJECT_DIR$/DependenciInjectionProblems/pom.xml" />
+        <option value="$PROJECT_DIR$/PropertiesReading/pom.xml" />
       </list>
     </option>
   </component>
