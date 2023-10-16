@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="BeanScope" />
         <module name="DependencyInjection" />
+        <module name="DependencyInjectionWithComponentScan" />
       </profile>
     </annotationProcessing>
   </component>
